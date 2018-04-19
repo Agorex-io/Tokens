@@ -8,7 +8,7 @@ This repository contains the old Tokens repo forked from [ForkDelta](https://git
 We are working with the community to develop our plans for the project. More information will be posted here soon. For now come chat with us on our [Discord](https://discord.gg/GVuj6UY) and help influence the future of an open, honest, community-run decentralized exchange!
 
 ### About
-Tokenbase is our ERC20 token knowledgebase.
+Tokenbase is our ERC20 and ERC223 token knowledgebase.
 
 ## Format
 Token information is stored in YAML format, one token per file, in `tokens/0xTOKENADDRESS.yaml`.
