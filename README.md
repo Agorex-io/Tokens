@@ -1,8 +1,14 @@
-# ![ForkDelta logo](https://forkdelta.github.io/next/favicon-32x32.png) ForkDelta Tokenbase
+# Agorex - Tokens
+[![Chat on Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/GVuj6UY)
+[![Join us on Reddit](https://img.shields.io/badge/reddit-Agorex-red.svg)](https://www.reddit.com/r/Agorex/)
 
-[![Build Status](https://travis-ci.org/forkdelta/tokenbase.svg?branch=master)](https://travis-ci.org/forkdelta/tokenbase) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/forkdelta/tokenbase/issues)
+This repository contains the old Tokens repo forked from [ForkDelta](https://github.com/forkdelta), and is an artifact from the migration of developers from ForkDelta to Agorex - The Cooperative Decentralized Exchange.
 
-**ForkDelta** is a decentralized exchange with over 700 tradable ERC20-compliant tokens. Tokenbase is our ERC20 token knowledgebase.
+### Future of Tokens
+We are working with the community to develop our plans for the project. More information will be posted here soon. For now come chat with us on our [Discord](https://discord.gg/GVuj6UY) and help influence the future of an open, honest, community-run decentralized exchange!
+
+### About
+Tokenbase is our ERC20 and ERC223 token knowledgebase.
 
 ## Format
 Token information is stored in YAML format, one token per file, in `tokens/0xTOKENADDRESS.yaml`.
